@@ -1,0 +1,5 @@
+Kenapa Components huruf 'c' pertam besar ?
+karena Error: EPERM: operation not permitted, rename 'c:\REACT\UTS\uts-react\src\Components' -> 'c:\REACT\UTS\uts-react\src\components'
+
+Kenapa Pages huruf 'P' pertamanya besar?
+karena ada Error: EPERM: operation not permitted, rename 'c:\REACT\UTS\uts-react\src\Pages' -> 'c:\REACT\UTS\uts-react\src\pages'
